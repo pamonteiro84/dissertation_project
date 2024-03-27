@@ -1,6 +1,6 @@
-## Dissertation_Scripts
+## Dissertation Projetc
 
-This GitHub repository contains all ops scripts used/created for the realization of the dissertation "Pattern Recognition Machine Learning Algorithms for Fault Classification of PV System" . Which I will explain in this file.
+This GitHub repository contains all ops scripts used/created for the realization of my Eletrical and Computer Engineering Masters dissertation entitled "Pattern Recognition Machine Learning Algorithms for Fault Classification of PV System" . Which I will explain in this file.
 
 ## dataset_amb.mat and dataset_elec.mat
 
