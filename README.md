@@ -30,7 +30,7 @@ This script was made to do the data extraction from the Matlab files mentioned a
 
 ## Machine Learning Models Scripts
 
-The MLP_dt.py, tree.py, knn.py, __ , xgboost_df.py and light_df.py represent the scripts created to adapt and impement different types of ML algorithms to the issue approached in this dissertation. The algorithms were: Multilayer Perceprotn, Decision Tree, K-Nearest-Neighhbors, upport Vector Machine, Extreme Gradient Boosting and Light Gradient Boosting.
+The MLP_dt.py, tree.py, knn.py, svm.py , xgboost_df.py and light_df.py represent the scripts created to adapt and impement different types of ML algorithms to the issue approached in this dissertation. The algorithms were: Multilayer Perceprotn, Decision Tree, K-Nearest-Neighhbors, upport Vector Machine, Extreme Gradient Boosting and Light Gradient Boosting.
 
 The steps in carrying out the scripts was common to all:
 
